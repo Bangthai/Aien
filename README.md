@@ -21,3 +21,5 @@
 #git push heroku master
 
 #Voilla!!!
+
+#use a different api key for mailchimp
