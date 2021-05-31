@@ -32,7 +32,7 @@ app.post("/" , (req,res)=>{
 
     const options = {
         method:"POST",
-        auth: "bangthai:6d261ab9e17ba05ae77f602e439901d3-us19"
+        auth: "bangthai:Enter your api key here";
     }
 
     const request = https.request(url, options ,function(response) {
